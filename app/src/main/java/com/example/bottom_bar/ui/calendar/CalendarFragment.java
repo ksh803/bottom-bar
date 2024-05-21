@@ -24,7 +24,7 @@ public class CalendarFragment extends Fragment {
         CalendarViewModel calendarViewModel =
                 new ViewModelProvider(this).get(CalendarViewModel.class);
 
-        binding = FragmentCalendarBinding.inflate(inflater, contai rer, false);
+        binding = FragmentCalendarBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
         final TextView textView = binding.textCalendar;
