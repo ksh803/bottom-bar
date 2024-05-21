@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom_Bar</string>
+    <string name="title_file">File</string>
+    <string name="title_map">Map</string>
+    <string name="title_home">Home</string>
+    <string name="title_memo">Memo</string>
+    <string name="title_calendar">Calendar</string>
+</resources>
